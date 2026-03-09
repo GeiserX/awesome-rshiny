@@ -281,6 +281,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [html2r](https://github.com/alandipert/html2r) - Convert HTML to R.
 - [Anomaly Detection](https://murat-koptur.shinyapps.io/AnomalyDetectionShiny/) - Detect anomalies on univariate timeseries data using AnomalyDetection package.
 - [R Shiny User Management & Authentication](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny.
+- [ePubLangMerger](https://github.com/GeiserX/ePubLangMerger) - A Shiny app to merge two ePub files in different languages into a single bilingual ebook for parallel reading.
 
 ## Contributors
 
