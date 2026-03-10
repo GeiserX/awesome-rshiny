@@ -281,6 +281,7 @@ A curated list of resources for R Shiny.  (*Featured on [Awesome-R](https://awes
 - [html2r](https://github.com/alandipert/html2r) - Convert HTML to R.
 - [Anomaly Detection](https://murat-koptur.shinyapps.io/AnomalyDetectionShiny/) - Detect anomalies on univariate timeseries data using AnomalyDetection package.
 - [R Shiny User Management & Authentication](https://github.com/yanirmor/shiny-user-management) - Demonstration of user management and authentication system in R Shiny.
+- [secciones-nacionalidades](https://github.com/GeiserX/secciones-nacionalidades) - Visualize population by nationality at census section level in Spain using INE open data, with interactive Leaflet maps and Highcharter charts.
 
 ## Contributors
 
